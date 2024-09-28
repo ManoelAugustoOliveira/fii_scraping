@@ -31,7 +31,7 @@ Isso retorna o número total de combinações possíveis.
 ### Resultados obtidos no exemplo:
 - **Combinação**: ('BCFF11', 'CPTS11', 'DEVA11', 'RBRF11', 'VGHF11')
 - **Total de Preços**: 70.35
-- **Total de Rendimento Bruto**: 45.45
+- **Total de Rendimento Bruto**: 11.38
 - **Rentabilidade anual**: 16.18%
 
 ### Disclaimer:
