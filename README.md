@@ -30,9 +30,9 @@ Isso retorna o número total de combinações possíveis.
 
 ### Resultados obtidos no exemplo:
 - **Combinação**: ('BCFF11', 'CPTS11', 'DEVA11', 'RBRF11', 'VGHF11')
-- **Total de Preços**: 70.35
+- **Total de Preços**: 68.32
 - **Total de Rendimento Bruto**: 11.38
-- **Rentabilidade anual**: 16.18%
+- **Rentabilidade anual**: 16.66%
 
 ### Disclaimer:
 Este projeto tem como foco **demonstrar técnicas de análise combinatória** e **otimização de carteiras de investimento**. As informações fornecidas não constituem aconselhamento financeiro e **não garantem rendimentos futuros**. A decisão de realizar investimentos deve ser baseada em análises detalhadas, preferencialmente com o auxílio de um consultor financeiro certificado.
